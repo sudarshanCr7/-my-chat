@@ -1,0 +1,28 @@
+body{
+    background:linear-gradient(rgb(0, 255, 0),rgb(0, 255, 247),violet);
+
+    text-align: center;
+}
+#footer{
+   
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+#msg{
+    width :80%;
+    height:30px ;
+    margin-left:70px;
+}
+
+button{
+    color: rgb(0, 0, 0);
+    background-color: deepskyblue;
+}
+
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
